@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+*.pt
+*.egg-info/
+.DS_Store
+runs/detect/*/*.jpg
+runs/detect/*/*.png
